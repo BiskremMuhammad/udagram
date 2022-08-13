@@ -2,7 +2,7 @@
 
 ##### _Udacity aws DevOps cloudformation IAC project_
 
-live url: http://44.193.197.204/index.html
+live url: http://udagr-webap-y751mj9m5g9u-460071726.us-east-1.elb.amazonaws.com/index.html
 
 ### Architechture
 
